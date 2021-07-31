@@ -1,0 +1,34 @@
+---
+title: "Henlo World"
+#description: "\\>Welcome"
+---
+
+Henlo! My name is Fajar Nugroho, thanks for visiting my site. I currently work at [Rakamin Academy](http://rakamin.com) a Start Up Education Technology based in Jakarta, Indonesia. I enjoy using R adn Python since join Bootcamp Data Science at [Algoritma Data Science School](https://algorit.ma). <br>
+Previously, I completed my Bachelor of Fisheries Science at [Universitas Gadjah Mada](https://www.ugm.ac.id/) in August 2018. I enjoy writing about things I'm working on and try to share some interesting things I discover on my blog.
+
+Feel free to get in touch if any of the posts catch your interest!
+
+### Shiny Apps
+
+Need a dashboard for your business? <br> 
+I recommend develop it with Shiny Apps, because I can develop it for you !
+
+[Thunnus Catching](https://fajardwnugroho.shinyapps.io/Thunnus_Catching/) <br>
+[Wicked Tuna](https://fajardwnugroho.shinyapps.io/Wicked_Tuna/)
+
+### [Rpubs](https://rpubs.com/fajardwnugroho/)
+
+Yes, yes, yes !! you can reach me on Rpubs too !
+
+### Contact
+<!-- Add font awesome icons --> 
+
+<div class="mylinks">
+<p style="text-align: center;">
+    <a href="https://t.me/fajardwnugroho" target="_blank" class="fab fa-telegram"  style="font-size:36px;"></a>
+    <a href="mailto:fajardwnugroho@gmail.com" target="_blank" class="fa fa-envelope" style="font-size:36px;"></a>
+    <a href="https://www.linkedin.com/in/fajardwnugroho/" target="_blank" class="fa fa-linkedin-square" style="font-size:36px;"></a>
+    <!-- <a href="https://twitter.com/harryfishr" target="_blank" class="fa fa-twitter" style="font-size:36px;"></a> -->
+</p>
+</div>
+
