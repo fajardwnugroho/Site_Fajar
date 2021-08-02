@@ -5,27 +5,27 @@
       "title": "Henlo World",
       "author": [],
       "contents": "\nHenlo! My name is Fajar Nugroho, thanks for visiting my site. I currently work at Rakamin Academy a Start Up Education Technology based in Jakarta, Indonesia. I enjoy using R adn Python since join Bootcamp Data Science at Algoritma Data Science School.  Previously, I completed my Bachelor of Fisheries Science at Universitas Gadjah Mada in August 2018. I enjoy writing about things I’m working on and try to share some interesting things I discover on my blog.\nFeel free to get in touch if any of the posts catch your interest!\nShiny Apps\nNeed a dashboard for your business?  I recommend develop it with Shiny Apps, because I can develop it for you !\nThunnus Catching Wicked Tuna\nRpubs\nYes, yes, yes !! you can reach me on Rpubs too !\nContact\n\n\n\n   \n\n\n\n\n\n",
-      "last_modified": "2021-08-02T16:05:46+07:00"
+      "last_modified": "2021-08-02T16:51:38+07:00"
     },
     {
       "path": "blog.html",
       "title": "",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-02T16:05:46+07:00"
+      "last_modified": "2021-08-02T16:51:38+07:00"
     },
     {
       "path": "index.html",
       "title": "",
       "author": [],
       "contents": "\n\n          \n          \n          fajardwnugroho\n          \n          \n          Home\n          Blog\n          About\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n          \n          \n            \n              I’m Fajar Nugroho, a data analyst enthusiast who falling in ❤️ with R and Python 🐍\n              I write some stuff about data analyst on here 📊\n              If you want to find out more deep about me, just simply click here 🙋\n              Check my social link ☘️\n              Or reach out me using the links below 📩\n              \n            \n              I’m Fajar Nugroho, a data analyst enthusiast who falling in ❤️ with R and Python 🐍\n              I write some stuff about data analyst on here 📊\n              If you want to find out more deep about me, just simply click here 🙋\n              Check my social link ☘️\n              Or reach out me using the links below 📩\n              \n          \n\n          \n            \n              \n                  \n                    \n                      \n                    \n                  \n                \n                                \n                  \n                    \n                      \n                    \n                  \n                \n                                \n                  \n                    \n                      \n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    \n                  \n                \n                                \n                  \n                    \n                  \n                \n                                \n                  \n                    \n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n          const toggle = document.getElementsByClassName(\"fas fa-adjust\")[0];\n\n          let theme = localStorage.getItem(\"theme\");\n\n          if (!theme) {\n            if (window.matchMedia(\"(prefers-color-scheme: dark)\").matches ) {\n              theme = \"dark\";\n            } else {\n              theme = \"dark\";\n            }\n          }\n          setTheme();\n\n          function switchTheme() {\n            if (theme === \"light\") {\n              theme = \"dark\";\n            } else {\n              theme = \"light\";\n            }\n            localStorage.setItem(\"theme\", theme);\n            setTheme();\n            console.log(theme);\n          }\n\n          function setTheme() {\n            if (theme === \"light\") {\n              \n              document.body.classList.remove('light');\n            } else {\n              document.body.classList.add('light');\n            }\n          }\n\n          toggle.addEventListener('click', switchTheme)\n\n          \n          \n\n          \n\n          Fajar Nugroho, 2021 | Made with  Distill package.\n\n          \n\n\n          \n          \n          \n\n    \n  ",
-      "last_modified": "2021-08-02T16:05:46+07:00"
+      "last_modified": "2021-08-02T16:51:39+07:00"
     },
     {
       "path": "README.html",
       "author": [],
       "contents": "\n\nBlog\nMy personal website / blog. Based on the distill theme by Rstudio.\n\n\n",
-      "last_modified": "2021-08-02T16:05:46+07:00"
+      "last_modified": "2021-08-02T16:51:39+07:00"
     }
   ],
   "collections": ["posts/posts.json"]
