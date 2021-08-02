@@ -19,5 +19,5 @@ site: distill::distill_website
 -   I'm Fajar Nugroho, a data analyst enthusiast who falling in ❤️ with <a href = "https://www.r-project.org/">R</a> and <a href = "https://www.python.org/">Python</a> 🐍
 -   I write some stuff about data analyst on <a href = "blog.html">here</a> 📊
 -   If you want to find out more deep about me, just simply click <a href = "about.html">here</a> 🙋
--   Check my <a href = "https://www.fajardwnugroho.com/">social link</a> ☘️
+-   Check my <a href = "https://linktr.ee/fajardwnugroho">social link</a> ☘️
 -   Or reach out me using the links below 📩

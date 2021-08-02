@@ -21,8 +21,8 @@ navbar:
       href: https://medium.com/fajardwnugroho
     - icon: fab fa-twitter
       href: https://twitter.com/fajardwnugroho
-    # - icon: fab fa-kaggle
-    #   href: https://twitter.com/fajardwnugroho
+    - icon: fab fa-kaggle
+      href: https://www.kaggle.com/fajardwinugroho
     # - icon: fab fa-spotify
     #   href: https://twitter.com/fajardwnugroho
     - icon: fab fa-youtube

@@ -2245,10 +2245,6 @@ d-byline h3 {
 
 /* CODE FORMATTING */
 
-code {
-  font-size: 1.2em;
-}
-
 /* Highlight code in text but not in code chunk */
 p code {
     color: #eee;
@@ -2274,14 +2270,30 @@ pre {
   border: 0px !important;
 }
 
+code {
+    margin: auto 4px;
+    padding: 4px 6px;
+    font-size: 1.0em;
+    line-height: 1.5;
+    background: 0 0;
+    background-color: var(--code-bg);
+    border-radius: 0;
+    overflow-x: auto !important;
+    overscroll-behavior-x: auto !important;
+    overflow: auto !important;
+}
+
 pre, code {
   background-color: var(--surface1);
 }
 
 pre code {
-  overflow: auto !important;
-  word-wrap: normal;
-  white-space: pre;
+    display: block;
+    margin: auto 0;
+    padding: 10px;
+    border-radius: 0;
+    overflow-x: auto;
+    word-break: break-all;
 }
 
 pre .img {
@@ -2469,6 +2481,9 @@ d-article blockquote {
 </a>
 <a href="https://twitter.com/fajardwnugroho">
 <i class="fab fa-twitter" aria-hidden="true"></i>
+</a>
+<a href="https://twitter.com/fajardwnugroho">
+<i class="fab fa-kaggle" aria-hidden="true"></i>
 </a>
 <a href="https://www.youtube.com/channel/UCj_OrFcTfEYZIa9MmPuQz-w">
 <i class="fab fa-youtube" aria-hidden="true"></i>
