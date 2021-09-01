@@ -38,7 +38,7 @@ favicon: favicon.ico
 collections:
   posts:
     share: [twitter]
-    # creative_commons: CC BY
+    creative_commons: CC BY
     custom: _custom.html
     subscribe: _subscribe.html
     authors_metadata: false
