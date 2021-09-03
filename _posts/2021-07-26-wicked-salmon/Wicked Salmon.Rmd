@@ -11,7 +11,7 @@ output:
     self_contained: false
     css: "style.css"
 categories:
-  - Python
+  - R
   - Data Analysis
   - Fisheries
 preview: images/marcos-paulo-prado-B1ZnmSB7htg-unsplash.jpg

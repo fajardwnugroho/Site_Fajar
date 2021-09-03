@@ -25,5 +25,17 @@
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://fajardwnugroho.netlify.app/posts/2021-08-02-wicked-tuna/images/kate-BRnnJ6vVNdY-unsplash.jpg" medium="image" type="image/jpeg"/>
     </item>
+    <item>
+      <title>Wicked Salmon</title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fajar Nugroho</dc:creator>
+      <link>https://fajardwnugroho.netlify.app/posts/2021-07-26-wicked-salmon</link>
+      <description>Decreasing of salmon population in wild habitat are cause by over fishing and developed on the river stream such as a dam. Because salmons are Anadromous they are swiming against the river flow from the ocean and back to the freshwater for spawning.</description>
+      <category>R</category>
+      <category>Data Analysis</category>
+      <category>Fisheries</category>
+      <guid>https://fajardwnugroho.netlify.app/posts/2021-07-26-wicked-salmon</guid>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://fajardwnugroho.netlify.app/posts/2021-07-26-wicked-salmon/images/marcos-paulo-prado-B1ZnmSB7htg-unsplash.jpg" medium="image" type="image/jpeg"/>
+    </item>
   </channel>
 </rss>
