@@ -13,20 +13,23 @@ navbar:
       href: blog.html
     - text: About
       href: about.html
-    - icon: fab fa-github
-      href: https://github.com/fajardwnugroho
+    - text: Workshop
+      href: https://bit.ly/WorkshopDSRMPython
+      target: blank
+    # - icon: fab fa-github
+    #   href: https://github.com/fajardwnugroho
     - icon: fab fa-instagram
       href: https://instagram.com/fajardwnugroho
     - icon: fab fa-medium-m 
       href: https://medium.com/fajardwnugroho
     - icon: fab fa-twitter
       href: https://twitter.com/fajardwnugroho
-    - icon: fab fa-kaggle
-      href: https://www.kaggle.com/fajardwinugroho
+    # - icon: fab fa-kaggle
+    #   href: https://www.kaggle.com/fajardwinugroho
     # - icon: fab fa-spotify
     #   href: https://twitter.com/fajardwnugroho
-    - icon: fab fa-youtube
-      href: https://www.youtube.com/channel/UCj_OrFcTfEYZIa9MmPuQz-w
+    # - icon: fab fa-youtube
+    #   href: https://www.youtube.com/channel/UCj_OrFcTfEYZIa9MmPuQz-w
     - icon: fas fa-adjust
     # - icon: fas fa-rss
     #   href: blog.xml
