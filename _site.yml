@@ -13,9 +13,6 @@ navbar:
       href: blog.html
     - text: About
       href: about.html
-    - text: Workshop
-      href: https://bit.ly/WorkshopDSRMPython
-      target: blank
     # - icon: fab fa-github
     #   href: https://github.com/fajardwnugroho
     - icon: fab fa-instagram
