@@ -16,7 +16,7 @@ categories:
   - Data Science
   - Tutorial
 preview: images/marcos-paulo-prado-B1ZnmSB7htg-unsplash.jpg
-draft: false
+draft: true
 editor_options: 
   chunk_output_type: console
 toc: true
