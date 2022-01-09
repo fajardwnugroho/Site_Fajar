@@ -12,19 +12,7 @@
       <link>https://fajardwnugroho.netlify.app/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Wicked Tuna</title>
-      <dc:creator>Fajar Nugroho</dc:creator>
-      <link>https://fajardwnugroho.netlify.app/posts/2021-08-02-wicked-tuna</link>
-      <description>Atlantic Bluefin Tuna now is endangered because overexploited, I want to find out current condition.</description>
-      <category>R</category>
-      <category>Data Analysis</category>
-      <category>Fisheries</category>
-      <guid>https://fajardwnugroho.netlify.app/posts/2021-08-02-wicked-tuna</guid>
-      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://fajardwnugroho.netlify.app/posts/2021-08-02-wicked-tuna/images/kate-BRnnJ6vVNdY-unsplash.jpg" medium="image" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Wicked Salmon</title>
       <dc:creator>Fajar Nugroho</dc:creator>
@@ -34,8 +22,20 @@
       <category>Data Analysis</category>
       <category>Fisheries</category>
       <guid>https://fajardwnugroho.netlify.app/posts/2021-07-26-wicked-salmon</guid>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       <media:content url="https://fajardwnugroho.netlify.app/posts/2021-07-26-wicked-salmon/images/marcos-paulo-prado-B1ZnmSB7htg-unsplash.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Wicked Tuna</title>
+      <dc:creator>Fajar Nugroho</dc:creator>
+      <link>https://fajardwnugroho.netlify.app/posts/2021-08-02-wicked-tuna</link>
+      <description>Atlantic Bluefin Tuna now is endangered because overexploited, I want to find out current condition.</description>
+      <category>R</category>
+      <category>Data Analysis</category>
+      <category>Fisheries</category>
+      <guid>https://fajardwnugroho.netlify.app/posts/2021-08-02-wicked-tuna</guid>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://fajardwnugroho.netlify.app/posts/2021-08-02-wicked-tuna/images/kate-BRnnJ6vVNdY-unsplash.jpg" medium="image" type="image/jpeg"/>
     </item>
   </channel>
 </rss>

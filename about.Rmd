@@ -1,6 +1,6 @@
 ---
 title: "Henlo World"
-#description: "\\>Welcome"
+description: "Rstudio Addicted, Python Fansboy and Shiny Developer"
 ---
 
 Henlo! My name is Fajar Nugroho, thanks for visiting my site. I currently work as a Marketing Analyst at Rakamin Academy a Start Up Education Technology based in Jakarta, Indonesia. I enjoy using R adn Python since I learn Data Science. <br>
@@ -14,11 +14,31 @@ Need a dashboard for your business? <br>
 I recommend develop it with Shiny Apps, because I can develop it for you !
 
 [Thunnus Catching](https://fajardwnugroho.shinyapps.io/Thunnus_Catching/) <br>
-[Wicked Tuna](https://fajardwnugroho.shinyapps.io/Wicked_Tuna/)
+[Sales Dashboard](https://fajardwnugroho.shinyapps.io/Sales_Dashboard/) <br>
+[Sales Prediction](https://fajardwnugroho.shinyapps.io/Sales_Prediction/)
 
-### [Rpubs](https://rpubs.com/fajardwnugroho/)
+### Rpubs
 
-Yes, yes, yes !! you can reach me on Rpubs too !
+Yes, yes, yes !! you can reach me on [Rpubs](https://rpubs.com/fajardwnugroho/) too !
+
+### Tech Stack
+<!-- Add font awesome icons --> 
+
+<div class="mylinks">
+<p style="text-align: center;">
+    <a href="https://cran.r-project.org/" target="_blank" class="fab fa-r-project" style="font-size:36px;"></a>
+    <a href="https://www.python.org/" target="_blank" class="fab fa-python" style="font-size:36px;"></a>
+    <a href="https://www.javascript.com/" target="_blank" class="fab fa-js-square" style="font-size:36px;"></a>
+    <a href="https://reactjs.org/" target="_blank" class="fab fa-react" style="font-size:36px;"></a>
+    <a href="https://github.com/" target="_blank" class="fab fa-github" style="font-size:36px;"></a>
+    <a href="https://www.docker.com/" target="_blank" class="fab fa-docker" style="font-size:36px;"></a>
+    <a href="https://aws.amazon.com/id/" target="_blank" class="fab fa-aws" style="font-size:36px;"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank" class="fab fa-html5" style="font-size:36px;"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank" class="fab fa-css3-alt" style="font-size:36px;"></a>
+    <a href="https://sass-lang.com/" target="_blank" class="fab fa-sass" style="font-size:36px;"></a>
+    <a href="https://www.mysql.com/" target="_blank" class="fas fa-database" style="font-size:36px;"></a>
+</p>
+</div>
 
 ### Contact
 <!-- Add font awesome icons --> 
