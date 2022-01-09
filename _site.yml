@@ -9,18 +9,20 @@ navbar:
   right:
     - text: Home
       href: index.html
-    - text: Blog
-      href: blog.html
+    - text: Journal
+      href: journal.html
     - text: About
       href: about.html
+    - text: Blog
+      href: https://medium.com/fajardwnugroho
     # - icon: fab fa-github
     #   href: https://github.com/fajardwnugroho
-    - icon: fab fa-instagram
-      href: https://instagram.com/fajardwnugroho
-    - icon: fab fa-medium-m 
-      href: https://medium.com/fajardwnugroho
-    - icon: fab fa-twitter
-      href: https://twitter.com/fajardwnugroho
+    # - icon: fab fa-instagram
+    #   href: https://instagram.com/fajardwnugroho
+    # - icon: fab fa-medium-m 
+    #   href: https://medium.com/fajardwnugroho
+    # - icon: fab fa-twitter
+    #   href: https://twitter.com/fajardwnugroho
     # - icon: fab fa-kaggle
     #   href: https://www.kaggle.com/fajardwinugroho
     # - icon: fab fa-spotify

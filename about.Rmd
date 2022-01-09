@@ -8,7 +8,7 @@ Previously, I completed my Bachelor of Fisheries Science at [Universitas Gadjah 
 
 Feel free to get in touch if any of the posts catch your interest!
 
-### Shiny Apps
+### Shiny Developer
 
 Need a dashboard for your business? <br> 
 I recommend develop it with Shiny Apps, because I can develop it for you !

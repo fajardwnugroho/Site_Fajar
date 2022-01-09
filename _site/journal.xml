@@ -3,7 +3,7 @@
   <channel>
     <title>fajardwnugroho</title>
     <link>https://fajardwnugroho.netlify.app/</link>
-    <atom:link href="https://fajardwnugroho.netlify.app/blog.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://fajardwnugroho.netlify.app/journal.xml" rel="self" type="application/rss+xml"/>
     <description>Fajar Dwi Nugroho's blog
 </description>
     <image>
