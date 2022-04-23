@@ -1,6 +1,6 @@
 ---
 title: ""
-image: "data/images/poto-removebg-preview.png"
+image: "data/images/foto-profile2.jpeg"
 links:
   - label: '<i class="fab fa-telegram fa-3x"></i>'
     url: "https://t.me/fajardwnugroho"
